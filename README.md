@@ -1,16 +1,22 @@
-## Hi there 👋
+# Fabio Seno — Graduate Unity Developer (Real-Time 3D)
 
-<!--
-**fabiosenodev/fabiosenodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build real-time interactive systems in **Unity (C#)** with a focus on clean, modular code and performance-conscious workflows.  
+I’m interested in applying game engine technology to **immersive visualisation, simulation, and training tools**.
 
-Here are some ideas to get you started:
+## What I work with
+- **Unity / C#** (gameplay systems, tools, interaction)
+- **Real-time 3D workflows** (asset integration, materials, scene organisation)
+- **Cinemachine / Input System** (scalable camera + controls)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured projects
+- **Gaia’s Last Stand (Unity)** — gameplay systems + asset integration (team project)
+- **Unity Systems Showcase** — modular scripts: input, movement, interaction
+- **Prototype demos** — small focused features with clean code
+
+## Links
+- LinkedIn: https://www.linkedin.com/in/fabio-seno-681621372  
+- GitHub: https://github.com/fabiosenodev  
+- Portfolio (Sketchfab): https://sketchfab.com/fabioseno
+
+## Contact
+📧 fabiosenodev@gmail.com
